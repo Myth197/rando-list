@@ -1,0 +1,22 @@
+name: Animal Well
+comment: ''
+sub-series: []
+games:
+    Animal Well:
+        genres:
+        - Adventure
+        - Puzzle
+        - Platformer
+        platforms:
+        - PC
+        release-date: 2024-05-09
+randomizers:
+-   games:
+    - Animal Well
+    identifier: Archipelago
+    url: https://multiworld.gg/games/ANIMAL%20WELL/info/en
+    multiworld: Archipelago
+    comment: "Created by ScipioWright, RoobyRoo, Franklesby & Dicene, Supported by multiworld.gg"
+    opensource: true
+    updated-date: 2025-07-31
+    added-date: 2025-09-18
