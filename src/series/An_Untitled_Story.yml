@@ -3,8 +3,10 @@ comment: ''
 sub-series: []
 games:
     An Untitled Story:
-        genres: [Metroidvania]
-        platforms: [PC]
+        genres:
+        - Platformer
+        platforms:
+        - PC
         release-date: 2007-08-26
 randomizers:
 -   games:
