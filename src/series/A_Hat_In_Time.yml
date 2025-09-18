@@ -1,5 +1,4 @@
 name: A Hat In Time
-comment: ''
 sub-series: []
 games:
     A Hat In Time:
@@ -14,6 +13,7 @@ randomizers:
     identifier: Archipelago
     url: https://archipelago.gg/games/A%20Hat%20in%20Time/info/en
     multiworld: Archipelago
+    comment: "Created by CookieCat45, Supported by archipelago.gg"
     opensource: true
-    updated-date: 2024-07-23
+    updated-date: 2025-08-12
     added-date: 2024-07-23
