@@ -3,8 +3,10 @@ comment: ''
 sub-series: []
 games:
     Against the Storm:
-        genres: [City Builder]
-        platforms: [PC]
+        genres:
+        - Strategy
+        platforms:
+        - PC
         release-date: 2021-10-18
 randomizers:
 -   games:
@@ -12,6 +14,7 @@ randomizers:
     identifier: Archipelago
     url: https://multiworld.gg/tutorial/Against%20the%20Storm/setup_en
     multiworld: Archipelago
+    comment: "Created by Ryguy9999, Supported by multiworld.gg"
     opensource: true
     updated-date: 2024-12-05
     added-date: 2025-09-18
