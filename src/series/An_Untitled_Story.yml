@@ -3,8 +3,9 @@ comment: ''
 sub-series: []
 games:
     An Untitled Story:
-        genres: []
-        platforms: []
+        genres: [Metroidvania]
+        platforms: [PC]
+        release-date: 2007-08-26
 randomizers:
 -   games:
     - An Untitled Story
@@ -13,3 +14,10 @@ randomizers:
     comment: Support available on the [ESA Randomizer Discord server](https://discord.com/invite/kPMT8g3)
     updated-date: 1900-01-01
     added-date: 1900-01-01
+-   games:
+    - An Untitled Story
+    identifier: Archipelago
+    url: https://multiworld.gg/games/An%20Untitled%20Story/info/en
+    comment: Created by ThatOneGuy27, Supported by multiworld.gg
+    updated-date: 2025-08-12
+    added-date: 2025-09-18
