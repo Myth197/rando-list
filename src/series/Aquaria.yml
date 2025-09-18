@@ -14,6 +14,7 @@ randomizers:
     identifier: Archipelago
     url: https://archipelago.gg/games/Aquaria/info/en
     multiworld: Archipelago
+    comment: "Created by tioui, Supported by archipelago.gg"
     opensource: true
-    updated-date: 2024-07-23
+    updated-date: 2025-06-14
     added-date: 2024-07-23
