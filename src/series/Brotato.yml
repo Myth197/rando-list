@@ -1,0 +1,20 @@
+name: Brotato
+comment: ''
+sub-series: []
+games:
+    Brotato:
+        genres:
+        - Shooter
+        platforms:
+        - PC
+        release-date: 2022-09-27
+randomizers:
+-   games:
+    - Brotato
+    identifier: Archipelago
+    url: https://multiworld.gg/tutorial/Brotato/setup_en
+    multiworld: Archipelago
+    comment: "Created by Rampaging Hippy, Supported by multiworld.gg"
+    opensource: true
+    updated-date: 2025-09-02
+    added-date: 2025-09-18
