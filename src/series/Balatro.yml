@@ -1,0 +1,20 @@
+name: Balatro
+comment: ''
+sub-series: []
+games:
+    Balatro:
+        genres:
+        - Strategy
+        platforms:
+        - PC
+        release-date: 2024-02-20
+randomizers:
+-   games:
+    - Balatro
+    identifier: Archipelago
+    url: https://multiworld.gg/tutorial/Balatro/setup_en
+    multiworld: Archipelago
+    comment: "Created by Burndi, Supported by multiworld.gg"
+    opensource: true
+    updated-date: 2025-05-14
+    added-date: 2025-09-18
