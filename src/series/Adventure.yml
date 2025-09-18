@@ -3,13 +3,17 @@ comment: ''
 sub-series: []
 games:
     Adventure:
-        genres: []
-        platforms: []
+        genres:
+        - Adventure
+        platforms: 
+        - PC
+        release-date: 1980-03-23
 randomizers:
 -   games:
     - Adventure
     identifier: Archipelago
     url: https://archipelago.gg/games/Adventure/info/en
     multiworld: Archipelago
-    updated-date: 1900-01-01
+    comment: "Created by created by JusticePS, Supported by archipelago.gg"
+    updated-date: 2025-05-21
     added-date: 1900-01-01
