@@ -1,0 +1,18 @@
+name: ArchipIDLE
+comment: ''
+sub-series: []
+games:
+    ArchipIDLE:
+        genres: []
+        platforms: []
+        release-date: 2024-04-01
+randomizers:
+-   games:
+    - Archipela-Go!
+    identifier: Archipelago
+    url: https://multiworld.gg/tutorial/ArchipIDLE/guide_en
+    multiworld: Archipelago
+    comment: "Created by LegendaryLinux, Supported by multiworld.gg"
+    opensource: true
+    updated-date: 2024-07-17
+    added-date: 2025-09-18
