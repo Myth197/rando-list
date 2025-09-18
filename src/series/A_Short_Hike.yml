@@ -3,13 +3,16 @@ comment: ''
 sub-series: []
 games:
     A Short Hike:
-        genres: []
-        platforms: []
+        genres: 
+        - Adventure
+        platforms:
+        - PC
 randomizers:
 -   games:
     - A Short Hike
     identifier: Archipelago
     url: https://archipelago.gg/games/A%20Short%20Hike/info/en
     multiworld: Archipelago
-    updated-date: 1900-01-01
+    comment: "Created by chandler05 & BrandenEK, Supported by archipelago.gg"
+    updated-date: 2024-07-02
     added-date: 1900-01-01
