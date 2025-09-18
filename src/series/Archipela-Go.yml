@@ -1,0 +1,19 @@
+name: Archipela-Go!
+comment: ''
+sub-series: []
+games:
+    Archipela-Go!:
+        genres:
+        - Adventure
+        platforms: []
+        release-date: 1999-06-18
+randomizers:
+-   games:
+    - Archipela-Go!
+    identifier: Archipelago
+    url: https://multiworld.gg/games/Ape%20Escape/info/en
+    multiworld: Archipelago
+    comment: "Created by Kaito Kid & aki665, Supported by multiworld.gg"
+    opensource: true
+    updated-date: 2025-08-12
+    added-date: 2025-09-18
