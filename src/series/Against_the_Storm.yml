@@ -1,0 +1,17 @@
+name: Against the Storm
+comment: ''
+sub-series: []
+games:
+    Against the Storm:
+        genres: [City Builder]
+        platforms: [PC]
+        release-date: 2021-10-18
+randomizers:
+-   games:
+    - Against the Storm
+    identifier: Archipelago
+    url: https://multiworld.gg/tutorial/Against%20the%20Storm/setup_en
+    multiworld: Archipelago
+    opensource: true
+    updated-date: 2024-12-05
+    added-date: 2025-09-18
