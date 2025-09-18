@@ -1,0 +1,20 @@
+name: Ape Escape
+comment: ''
+sub-series: []
+games:
+    Ape Escape:
+        genres:
+        - Platformer
+        platforms:
+        - PC
+        release-date: 1999-06-18
+randomizers:
+-   games:
+    - Ape Escape
+    identifier: Archipelago
+    url: https://multiworld.gg/games/Ape%20Escape/info/en
+    multiworld: Archipelago
+    comment: "Created by Thedragon005, Supported by multiworld.gg"
+    opensource: true
+    updated-date: 2025-09-16
+    added-date: 2025-09-18
